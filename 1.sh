@@ -1,5 +1,5 @@
 #!/bin/bash
-
+# Functions and Fractals - Recursive Trees - Bash
 # https://www.hackerrank.com/challenges/fractal-trees-all/problem?h_r=next-challenge&h_v=zen&h_r=next-challenge&h_v=zen
 
 mi()
